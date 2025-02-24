@@ -103,7 +103,7 @@ public class pattern {
                 if(sum %2 ==0){
                     System.out.print("1"); //even
                 }else{
-                    System.out.println("0");
+                    System.out.print("0");
                 }
 
             }System.out.println();
