@@ -8,7 +8,7 @@ public class pattern {
         for(int i =0;i<=m;i++){
             
             for(int j=1;j<=n;j++){
-                System.out.print("*"); rectangle
+                System.out.print("*"); //rectangle
             }
 
             System.out.println();
@@ -100,14 +100,16 @@ public class pattern {
             for(int j=1; j<=i;j++){
                 int sum =i+j;
 
-                if(sum %2 ==0)
+                if(sum %2 ==0){
                     System.out.print("1"); //even
                 }else{
-                    System.out.print("0");
+                    System.out.println("0");
                 }
+
             }System.out.println();
 
         }
 
     }
 }
+
