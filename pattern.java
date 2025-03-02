@@ -106,7 +106,7 @@ public class pattern {
                     System.out.print("0");
                 }
 
-            }System.out.println();
+            }System.out.println();//programming
 
         }
 
